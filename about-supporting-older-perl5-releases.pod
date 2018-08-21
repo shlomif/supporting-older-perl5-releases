@@ -1,0 +1,10 @@
+=head1 About Supporting Older Releases of perl5 For CPAN Distributions
+
+=head2 TL;DR Summary
+
+Due to several reasons, I am setting a minimal version of perl5 - 5.12.0
+or even higher - for some of my L<CPAN,https://en.wikipedia.org/wiki/CPAN>
+distributions. You should either upgrade your perl5, or alternatively pay
+me to support older releases of perl5.
+
+=cut
