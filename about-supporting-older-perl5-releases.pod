@@ -7,4 +7,34 @@ or even higher - for some of my L<CPAN,https://en.wikipedia.org/wiki/CPAN>
 distributions. You should either upgrade your perl5, or alternatively pay
 me to support older releases of perl5.
 
+=head2 The payment terms
+
+I request a payment of 100 USD per year per distribution, to make me support
+perl-5.8.x-or-above, not just for you - for everybody. At the end of the year,
+if I don't get a term renewal, I may continue to support the older versions,
+or I may not.
+
+Note that you may opt to be credited as supporters of the distribution, in its
+documentation.
+
+=head2 Alternatives
+
+=over 4
+
+=item * Use perlbrew
+
+See L<https://perlbrew.pl/> .
+
+=item * Apply a downstream patch.
+
+=item * Fork it under a different name.
+
+=item * Stop using it.
+
+Or patch the reverse dependencies to use something else.
+
+=item * Take over PAUSE maintainership.
+
+=back
+
 =cut
