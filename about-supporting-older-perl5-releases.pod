@@ -37,4 +37,16 @@ Or patch the reverse dependencies to use something else.
 
 =back
 
+=head2 References
+
+=over 4
+
+=item * L<GitHub discussion,https://github.com/shlomif/perl-XML-SemanticDiff/issues/3>
+
+=item * L<module-authors discussion,https://www.nntp.perl.org/group/perl.module-authors/2018/08/msg10944.html>
+
+=item * L<What does "if it ain't broke, don't fix it" really mean?,https://szabgab.com/what-does--if-it-aint-broke-dont-fix-it--really-mean.html>
+
+=back
+
 =cut
