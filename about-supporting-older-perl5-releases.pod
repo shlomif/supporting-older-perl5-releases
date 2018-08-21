@@ -49,4 +49,10 @@ Or patch the reverse dependencies to use something else.
 
 =back
 
+=head2 Contact
+
+L<https://metacpan.org/author/SHLOMIF> ,
+L<http://www.shlomifish.org/me/contact-me/> ,
+L<http://www.shlomifish.org/meta/donate/> .
+
 =cut
