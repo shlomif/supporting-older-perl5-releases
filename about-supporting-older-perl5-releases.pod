@@ -19,6 +19,30 @@ I added a "use 5.012;" statement so L<Dist::Zilla> can make the Kwalitee / CPANT
 
 To quote L<Jenna Marbles|https://www.youtube.com/user/JennaMarbles> in this video - L<https://www.youtube.com/watch?v=ROZjaxT_0Hw>, which I found really funny and has some NSFW monologue, but SFW imagery: "Fuck that!".
 
+Paul Bennett writes in L<https://www.mail-archive.com/module-authors@perl.org/msg10638.html> :
+
+    I have faced this question head-on with some of my modules.
+
+    My take is that there are many, many corporations version-locked to
+    specific "enterprise-grade" Linux distros, and stuck with system Perls
+    maybe as old as 5.10, and potentially stuck with security policies that
+    make solutions like perlbrew difficult.
+
+    I try (when I can), therefore, to keep at least one version of my modules
+    on CPAN that will run on 5.10 (5.8.8 sometimes), even if the default /
+    latest CPAN version needs something newer for full functionality or higher
+    performance or greater readability, or whatever.
+
+    I may be alone in this, also, but whenever I clean up my PAUSE distros, I
+    try to leave the $v.0 and the latest $v.$last versions of every module, for
+    every major version $v of that module. This is in case anyone has a module
+    (on or off CPAN) that has some kind of version locking in their deps.
+
+Well, I don't have a lot of empathy for organisations with non-productive
+policies like that, but I suppose that if they really need that, then they can
+afford to pay me for my time and trouble, or to implement any of the other
+possible solutions.
+
 =head2 The payment terms
 
 I request a payment of 100 USD per year per distribution, to make me support
