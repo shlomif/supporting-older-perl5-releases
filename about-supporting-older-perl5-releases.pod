@@ -17,6 +17,8 @@ I hesitate to lower the requirement to 5.010, and then to 5.8 , 5.6 and finally 
 
 I added a "use 5.012;" statement so L<Dist::Zilla> can make the Kwalitee / CPANTS (see L<https://cpants.cpanauthors.org/> ) metrics better (minimum perl version). Reducing it further would have meant that I'd have to: 1. Risk test failures for 5.8 and 5.10. 2. Risk having to support end users with these ancient perl versions. All this is something I don't want to do as a precaution. Also see the joke thread at L<http://www.shlomifish.org/humour/fortunes/tinic.html#hamakor-discs-mozilla-1.1-1> . You really should upgrade to a newer perl5.
 
+To quote L<Jenna Marbles|https://www.youtube.com/user/JennaMarbles> in this video - L<https://www.youtube.com/watch?v=ROZjaxT_0Hw>, which I found really funny and has some NSFW monologue, but SFW imagery): "Fuck that!".
+
 =head2 The payment terms
 
 I request a payment of 100 USD per year per distribution, to make me support
