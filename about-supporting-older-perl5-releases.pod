@@ -47,7 +47,7 @@ policies like that, but I suppose that if they really need that, then they can
 afford to pay me for my time and trouble, or to implement any of the other
 possible solutions.
 
-=head3 Respecting the perl5-porters
+=head3 Paying respect to the perl5-porters
 
 The L<perl5-porters|https://lists.perl.org/list/perl5-porters.html> actively
 work to release new versions of the perl5 runtime with bug fixes (including
