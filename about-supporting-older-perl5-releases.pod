@@ -49,9 +49,7 @@ possible solutions.
 
 =head3 Respecting the perl5-porters
 
-I believe that objecting to requiring a minimum version of perl5 above 5.10.x
-is disrespectful of the work of the
-L<perl5-porters|https://lists.perl.org/list/perl5-porters.html> who actively
+The L<perl5-porters|https://lists.perl.org/list/perl5-porters.html> actively
 work to release new versions of the perl5 runtime with bug fixes (including
 for security bugs), new features, new automated tests, new optimisations,
 and other improvements, all while breaking as little backward compatibility as
@@ -65,6 +63,12 @@ They deserve a lot of appreciation, and I hereby admit that I love them all.
 Many perl5 and CPAN contributors went to great effort to create open source
 solutions such as perlbrew or L<local::lib> to facilitate using an up-to-date
 version of perl5, so there is little excuse to avoid updating.
+
+As a result, while you are free to make use of older perl5 releases (while
+risking suffering from many potential bugs), I think it is unfair if you
+complain that CPAN authors like me set the minimum bar higher than
+5.8.x/5.10.x. If you really need my distributions to work on your
+old perl5 releases, then please implement one of the suggestions below.
 
 =head2 The payment terms
 
