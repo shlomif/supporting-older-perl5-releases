@@ -5,9 +5,13 @@
 
 
 XHTML = about-supporting-older-perl5-releases.xhtml
+ADOC = README.asciidoc
 MD = README.md
 
-all: $(MD)
+all: $(ADOC)
+
+$(ADOC): about-supporting-older-perl5-releases.pod
+	pod2asciidoctor --output $@ $<
 
 $(MD): about-supporting-older-perl5-releases.pod
 	pod2github $< $@
