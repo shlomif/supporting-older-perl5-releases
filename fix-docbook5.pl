@@ -28,6 +28,7 @@ sub run
     my $c        = 0;
     my @newlines = map {
         my $line = $_;
+        $line =~ s#<(/?)simpara>#<${1}para>#gms;
         my @o    = ($line);
         if ( $line = /\A<title>/ms )
         {
