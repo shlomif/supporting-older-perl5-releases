@@ -29,7 +29,7 @@ sub run
     my @newlines = map {
         my $line = $_;
         $line =~ s#<(/?)simpara>#<${1}para>#gms;
-        my @o    = ($line);
+        my @o = ($line);
         if ( $line = /\A<title>/ms )
         {
             ++$c;

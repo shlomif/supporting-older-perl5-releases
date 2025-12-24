@@ -56,7 +56,7 @@ bug reports, complaints, and discussion. Since the release of perl 5.12.0, a
 new stable version of perl5 was released yearly every May or close to it.
 
 They deserve a lot of appreciation, and I hereby admit that I love them all.
-â¥â¥â¥! Thanks!
+♥♥♥! Thanks!
 
 Many perl5 and CPAN contributors went to great effort to create open source
 solutions such as perlbrew or << local::lib >> to facilitate using an up-to-date
@@ -71,7 +71,7 @@ old perl5 releases, then please implement one of the suggestions below.
 === The payment terms
 
 I request a payment of 100 USD per year per distribution, to make me support
-perl-5.8.x-or-above â not just for you â for everybody. At the end of the year,
+perl-5.8.x-or-above — not just for you — for everybody. At the end of the year,
 if I don't get a term renewal, I may continue to support the older versions,
 or I may not.
 
@@ -80,32 +80,32 @@ documentation.
 
 === Alternative Options To Paying
 
-* * Use perlbrew
+* Use perlbrew
 
 See https://perlbrew.pl/ .
 
-* * Apply a downstream patch.
+* Apply a downstream patch.
 
-* * Fork it under a different name.
+* Fork it under a different name.
 
-* * Stop using it.
+* Stop using it.
 
 Or patch the reverse dependencies to use something else.
 
-* * Take over PAUSE maintainership.
+* Take over PAUSE maintainership.
 
 === References
 
-* * L<GitHub discussion|https://github.com/shlomif/perl-XML-SemanticDiff/issues/3>
+* L<GitHub discussion|https://github.com/shlomif/perl-XML-SemanticDiff/issues/3>
 
-* * L<module-authors discussion|https://www.nntp.perl.org/group/perl.module-authors/2018/08/msg10944.html>
+* L<module-authors discussion|https://www.nntp.perl.org/group/perl.module-authors/2018/08/msg10944.html>
 
-* * L<What does "if it ain't broke, don't fix it" really mean?|https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/>
+* L<What does "if it ain't broke, don't fix it" really mean?|https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/>
 
 === Contact
 
-* * L<https://metacpan.org/author/SHLOMIF>
+* L<https://metacpan.org/author/SHLOMIF>
 
-* * L<http://www.shlomifish.org/me/contact-me/>
+* L<http://www.shlomifish.org/me/contact-me/>
 
-* * L<http://www.shlomifish.org/meta/donate/>
+* L<http://www.shlomifish.org/meta/donate/>
